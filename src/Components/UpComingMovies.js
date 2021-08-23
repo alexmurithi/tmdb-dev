@@ -38,7 +38,7 @@ const UpComingMovies =()=>{
     return(
         <>
             <Box className={classes.root} py={3}>
-                <Container maxWidth='lg'>
+                <Container maxWidth='xl'>
 
                     <Typography variant='h6' gutterBottom>Upcoming Movies & Tv Shows</Typography>
                     <GlideSlider

@@ -14,4 +14,3 @@ export const Get_UpComing_Movies =gql
         }
     }
 `;
-
