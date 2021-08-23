@@ -36,7 +36,7 @@ const TrendingAll= ()=>{
     return (
         <> 
             <Box py={2}>
-                <Container maxWidth='lg'>
+                <Container maxWidth='xl'>
                     <Typography variant='h6' gutterBottom>
                         Trending
                     </Typography>
